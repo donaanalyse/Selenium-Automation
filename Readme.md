@@ -5,8 +5,9 @@ A Java-based Selenium WebDriver automation framework built with Maven and JUnit.
  Tech Stack
 1. Java 1.8
 2. Selenium WebDriver 4.43.0
-3. JUnit 4.13.2Maven
-4.ChromeDriver
+3. JUnit 4.13.2
+4. Maven
+5.ChromeDriver
 
  Test Cases
 | Test | Description | Status |
